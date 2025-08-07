@@ -36,7 +36,7 @@ const Header = () => {
 
                 <div className="header-logo flex gap-05">
                     <BsYoutube color="var(--logo)" size={40} />
-                    <h1>Yoa<span style={{ color: "var(--logo)" }}>Tube</span></h1>
+                    <h1>MY<span style={{ color: "var(--logo)" }}>2ube</span></h1>
                 </div>
             </div>
 
@@ -58,22 +58,22 @@ const Header = () => {
                         <div className="profile-icon">
                             <AiOutlineUser color="var(--text)" size={50} />
                         </div>
-                        <h3>ChiragChrg</h3>
+                        <h3>Suresh Kaleyannan</h3>
                     </div>
 
                     <div className="profile-links flex col">
-                        <a href="https://devbase.netlify.app/">
+                        <a href="https://dev.suresh.app/">
                             <Devbase fill="var(--text)" size={30} />
-                            <span>Devbase</span>
+                            <span>Dev-Page</span>
                         </a>
-                        <a href="https://github.com/ChiragChrg">
+                        <a href="https://hello.suresh.app">
                             <FaGithub color="var(--text)" size={30} />
-                            <span>GitHub</span>
+                            <spa>Feedback/Suggestion</span>
                         </a>
                     </div>
 
                     <div className="profile-footer">
-                        <p>© Copyright 2022 ChiragChrg</p>
+                        <p>© Copyright 2025 Suresh Kaleyannan | Malaysia</p>
                     </div>
                 </div>
             </div>
