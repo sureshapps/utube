@@ -64,11 +64,11 @@ const Header = () => {
                     <div className="profile-links flex col">
                         <a href="https://dev.suresh.app/">
                             <Devbase fill="var(--text)" size={30} />
-                            <span>Dev-Page</span>
+                            <span>Developer</span>
                         </a>
                         <a href="https://hello.suresh.app">
                             <FaGithub color="var(--text)" size={30} />
-                            <spa>Feedback/Suggestion</span>
+                            <span>Feedback/Suggestion</span>
                         </a>
                     </div>
 
